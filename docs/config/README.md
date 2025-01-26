@@ -3200,7 +3200,7 @@ The `odin` module shows the currently installed version of [Odin](https://odin-l
 | ------------------- | ------------------------------------ | ----------------------------------------------------- |
 | `format`            | `'via [$symbol($version )]($style)'` | The format for the module.                            |
 | `show_commit`       | `false`                              | Shows the commit as part of the version.              |
-| `symbol`            | `'Ø '`                               | The symbol used before displaying the version of Zig. |
+| `symbol`            | `'Ø '`                               | The symbol used before displaying the version of Odin.|
 | `style`             | `'bold bright-blue'`                 | The style for the module.                             |
 | `disabled`          | `false`                              | Disables the `odin` module.                           |
 | `detect_extensions` | `['odin']`                           | Which extensions should trigger this module.          |
